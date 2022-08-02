@@ -1,0 +1,6 @@
+name: 'Terraform Install'
+author: 'Viraj Nemane'
+description: 'Will install terraform and apply'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
