@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /github/workspace/
-terraform init && terraform apply -auto-approve
+terraform init
+terraform apply -auto-approve
